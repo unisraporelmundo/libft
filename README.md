@@ -4,6 +4,7 @@ El primer proyecto en 42, libft, consiste en aprender cómo funcionan las funcio
 Tendrás que programar una [librería](https://github.com/unisraporelmundo/libft/tree/main) en C. Tu librería tendrá un montón de funciones de propósito general en las que se apoyarán tus programas.
 
 [Click aquí](https://github.com/unisraporelmundo/libft/blob/main/es.subject.pdf) para ver el `PDF` del proyecto.
+
 [Click aquí](https://github.com/unisraporelmundo/unisraporelmundo/blob/main/unisraporelmundo/LIBFT%20%20APUNTES%20ISRAEL.pdf) para ver el `PDF` con mis apuntes del proyecto.
 
 
