@@ -3,7 +3,7 @@
 El primer proyecto en 42, libft, consiste en aprender cómo funcionan las funciones estándar de la programación C escribiéndolas desde cero y creando una biblioteca personal. Este proyecto es vital ya que la biblioteca se utilizará en asignaciones futuras en 42.
 Tendrás que programar una [librería](https://github.com/unisraporelmundo/libft/tree/main) en C. Tu librería tendrá un montón de funciones de propósito general en las que se apoyarán tus programas.
 
-[Click aquí](https://github.com/unisraporelmundo/libft/blob/main/es.subject.pdf) para ver el `PDF` del proyecto.
+[Click aquí](https://github.com/unisraporelmundo/unisraporelmundo/blob/main/unisraporelmundo/es.subject.pdf) para ver el `PDF` del proyecto.
 
 [Click aquí](https://github.com/unisraporelmundo/unisraporelmundo/blob/main/unisraporelmundo/LIBFT%20%20APUNTES%20ISRAEL.pdf) para ver el `PDF` con mis apuntes del proyecto.
 
