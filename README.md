@@ -1,7 +1,7 @@
 <a href="#" onclick="return false;"><img alt="42 Logo" src="https://github.com/unisraporelmundo/unisraporelmundo/blob/main/unisraporelmundo/libftbanner.gif"></a>
 
 El primer proyecto en 42, libft, consiste en aprender cómo funcionan las funciones estándar de la programación C escribiéndolas desde cero y creando una biblioteca personal. Este proyecto es vital ya que la biblioteca se utilizará en asignaciones futuras en 42.
-Tendrás que programar una [librería](https://github.com/unisraporelmundo/Cursus42/tree/main/libft) en C. Tu librería tendrá un montón de funciones de propósito general en las que se apoyarán tus programas.
+Tendrás que programar una [librería](https://github.com/unisraporelmundo/libft/tree/main) en C. Tu librería tendrá un montón de funciones de propósito general en las que se apoyarán tus programas.
 
 [Click aquí](https://github.com/unisraporelmundo/unisraporelmundo/blob/main/unisraporelmundo/es.subject.pdf) para ver el `PDF` del proyecto
 
@@ -31,7 +31,7 @@ Debes rehacer las siguientes funciones de la libc con el prefijo `ft_`:
 
 | Función                         | Descripción                                                                     | Prototipo                                                                        |
 | -------------------------------- | ----------------------------------------------------------- |-------------------------------------------------------------|                                               
-| [ft_isalpha](./Funcionesprincipales/ft_isalpha.c) | Verifica si el carácter `c` es alfabético.                                          | int ft_isalpha(int c);                                                           |
+| [ft_isalpha](./ft_isalpha.c) | Verifica si el carácter `c` es alfabético.                                          | int ft_isalpha(int c);                                                           |
 | [ft_isdigit](./ft_isdigit.c) | Verifica si el carácter `c` es un dígito numérico.                                     | int ft_isdigit(int c);                                                           |
 | [ft_isalnum](./ft_isalnum.c) | Verifica si el carácter `c` es alfanumérico.                                        | int ft_isalnum(int c);                                                           |
 | [ft_isascii](./ft_isascii.c) | Verifica si el carácter `c` es un carácter ASCII.                                  | int ft_isascii(int c);                                                           |
