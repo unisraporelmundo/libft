@@ -31,7 +31,7 @@ Debes rehacer las siguientes funciones de la libc con el prefijo `ft_`:
 
 | Función                         | Descripción                                                                     | Prototipo                                                                        |
 | -------------------------------- | ----------------------------------------------------------- |-------------------------------------------------------------|                                               
-| [ft_isalpha](./ft_isalpha.c) | Verifica si el carácter `c` es alfabético.                                          | int ft_isalpha(int c);                                                           |
+| [ft_isalpha](.Funcionesprincipales/ft_isalpha.c) | Verifica si el carácter `c` es alfabético.                                          | int ft_isalpha(int c);                                                           |
 | [ft_isdigit](./ft_isdigit.c) | Verifica si el carácter `c` es un dígito numérico.                                     | int ft_isdigit(int c);                                                           |
 | [ft_isalnum](./ft_isalnum.c) | Verifica si el carácter `c` es alfanumérico.                                        | int ft_isalnum(int c);                                                           |
 | [ft_isascii](./ft_isascii.c) | Verifica si el carácter `c` es un carácter ASCII.                                  | int ft_isascii(int c);                                                           |
