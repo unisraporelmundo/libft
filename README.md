@@ -75,9 +75,6 @@ Crearás funciones que no se encuentran en la libc o que ofrecen funcionalidades
 | [ft_putendl_fd](https://github.com/unisraporelmundo/libft/blob/main/Funciones%20adicionales/ft_putendl_fd.c)| Escribe una cadena seguida de un salto de línea en un descriptor de archivo.                | void ft_putendl_fd(char *s, int fd);                                             |
 | [ft_putnbr_fd](https://github.com/unisraporelmundo/libft/blob/main/Funciones%20adicionales/ft_putnbr_fd.c)   | Escribe un entero en un descriptor de archivo.                                   | void ft_putnbr_fd(int n, int fd);                                                |
 
-## 🔨 Makefile
-
-El Makefile incluirá reglas como `all`, `clean`, `fclean`, y `re` para gestionar eficientemente la compilación de la biblioteca.
 
 ## 🚀 Parte Bonus
 
@@ -101,6 +98,7 @@ Si completas la parte obligatoria con éxito, puedes proceder a implementar func
 
 [Click aquí](https://github.com/unisraporelmundo/unisraporelmundo/blob/main/unisraporelmundo/LIBFT%20%20APUNTES%20ISRAEL.pdf) para ver el `PDF` con mis apuntes del proyecto.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="#" onclick="return false;"><img alt="42 Logo" src="https://github.com/unisraporelmundo/unisraporelmundo/blob/main/unisraporelmundo/libftbanner.gif"></a>
 
