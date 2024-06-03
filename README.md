@@ -11,7 +11,7 @@ Tendrás que programar una [librería](https://github.com/unisraporelmundo/libft
   
   | Circle | Project | Status | Language |
   |:------:|:-------:|:------:|:------:|
-  | 0 | [**libft**](./libft) | **125%** | <img  height="25" src=https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png> |
+  | 0 | [**libft**](https://github.com/unisraporelmundo/libft/tree/main) | **125%** | <img  height="25" src=https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png> |
   |||
 
 
