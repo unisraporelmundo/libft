@@ -55,9 +55,7 @@ Debes rehacer las siguientes funciones de la libc con el prefijo `ft_`:
 | [ft_strnstr](https://github.com/unisraporelmundo/libft/blob/main/Funciones%20principales/ft_strnstr.c) | Localiza la primera ocurrencia de `needle` en `haystack` dentro de un máximo de `size` bytes. | char *ft_strnstr(const char *haystack, const char *needle, size_t size);|
 | [ft_atoi](https://github.com/unisraporelmundo/libft/blob/main/Funciones%20principales/ft_atoi.c)       | Convierte una cadena en un entero.                                                | int ft_atoi(const char *str);                                                    |
 | [ft_calloc](https://github.com/unisraporelmundo/libft/blob/main/Funciones%20principales/ft_calloc.c)   | Asigna memoria y la llena con ceros.                                       | void *ft_calloc(size_t nmemb, size_t size);                                      |
-| [ft_strdup](https://github.com/unisraporelmundo/libft/blob
-
-/main/Funciones%20principales/ft_strdup.c)   | Duplica una cadena dinámica.                                                     | char *ft_strdup(const char *s1);                                                 |
+| [ft_strdup](https://github.com/unisraporelmundo/libft/blob/main/Funciones%20principales/ft_strdup.c)   | Duplica una cadena dinámica.                                                     | char *ft_strdup(const char *s1);                                                 |
 
 ### Funciones adicionales
 
@@ -165,9 +163,7 @@ You will create functions that are not found in libc or offer extended functiona
 
 | Function                         | Description                                                                     | Prototype                                                                        |
 | -------------------------------- | ------------------------------------------------------------------------------- |--------------------------------------------------------------------------------- |
-| [ft_substr](https://github.com/unisraporelmundo/libft/blob/main/Funciones%20adicionales/ft_substr.c
-
-)   | Extracts a substring from a string.                                             | char *ft_substr(const char *s, unsigned int start, size_t len);                  |
+| [ft_substr](https://github.com/unisraporelmundo/libft/blob/main/Funciones%20adicionales/ft_substr.c)   | Extracts a substring from a string.                                             | char *ft_substr(const char *s, unsigned int start, size_t len);                  |
 | [ft_strjoin](https://github.com/unisraporelmundo/libft/blob/main/Funciones%20adicionales/ft_strjoin.c) | Concatenates two strings into a new one.                                        | char *ft_strjoin(const char *s1, const char *s2);                                |
 | [ft_strtrim](https://github.com/unisraporelmundo/libft/blob/main/Funciones%20adicionales/ft_strtrim.c) | Trims specified characters from the beginning and end of a string.            | char *ft_strtrim(const char *s1, const char *set);                               |
 | [ft_split](https://github.com/unisraporelmundo/libft/blob/main/Funciones%20adicionales/ft_split.c)     | Splits a string into words.                                                     | char **ft_split(const char *s, char c);                                          |
